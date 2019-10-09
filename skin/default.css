@@ -1,0 +1,76 @@
+/*
+#1 = 417630
+#2 = 417630
+*/
+a {
+	color: navy;
+}
+a:hover {
+	color: navy;
+}
+
+/* menu */
+.nav>li>a:hover {
+	color: navy;
+}
+
+.navbar .navbar-nav > .active > a {
+	color: navy;
+}
+.navbar .navbar-brand:hover {
+	color: navy;
+}
+
+/* flexslider */
+.flex-control-paging li a {
+	background: navy;
+}
+
+.flex-direction-nav a:hover{
+	background-color:navy;
+}
+
+.testimonial span.author a {
+	color: navy;
+}
+
+/* --- icon box hover --- */
+.hi-icon-effect-5 .hi-icon {
+	color: navy;
+	box-shadow: 0 0 0 4px navy;
+}
+.no-touch .hi-icon-effect-5 .hi-icon:hover {
+	background: navy;
+	box-shadow: 0 0 0 8px  navy;
+}
+
+
+/* portfolio */
+.portfolio-item .portfolio-desc {
+	background: navy;
+}
+
+/* btn */
+.btn-theme {
+  background: navy;
+}
+.btn-theme:hover,.btn-theme:focus,.btn-theme:active{
+  background: navy;
+}
+.btn-cta,.btn-cta.btn-lg {
+  background: navy;
+  border-color: navy;
+}
+
+.btn-cta:focus,.btn-cta:active{
+   border-color: navy;
+}
+
+/* footer */
+.social-circle li a {
+	background:navy;
+}
+
+a.scrollup{
+	background:navy;
+}
