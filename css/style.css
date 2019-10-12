@@ -157,6 +157,12 @@ a:hover {
     text-transform: uppercase;
 }
 
+.info-button {
+    width: 100%;
+    height: auto;
+    font-size: 1rem;
+}
+
 
 /* Cards */
 
@@ -1126,8 +1132,8 @@ section.featured h2.slogan {
     }
 }
 .carousel-inner .form-inline .form-group button[type="livedemo"] {
-    padding: 20px 60px;
-    font-size: 20px;
+    padding: 1rem;
+    font-size: 1rem;
     background: navy;
     color: #fff;
     border-radius: 0;
@@ -1137,23 +1143,6 @@ section.featured h2.slogan {
 .carousel-inner .form-inline .form-group button[type="livedemo"]:hover {
     color: #fff;
     opacity: 0.8;
-    -webkit-transition: color 300ms, background-color 300ms;
-    -moz-transition: color 300ms, background-color 300ms;
-    -o-transition: color 300ms, background-color 300ms;
-    transition: color 300ms, background-color 300ms;
-}
-.carousel-inner .form-inline .form-group button[type="getnow"] {
-    padding: 20px 60px;
-    font-size: 20px;
-    background: #fff;
-    color: #272727;
-    border-radius: 0;
-    text-transform: uppercase;
-}
-.carousel-inner .form-inline .form-group button[type="getnow"]:hover {
-    color: #fff;
-    border-color: #fff;
-    background: navy;
     -webkit-transition: color 300ms, background-color 300ms;
     -moz-transition: color 300ms, background-color 300ms;
     -o-transition: color 300ms, background-color 300ms;
